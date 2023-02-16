@@ -21,8 +21,27 @@
 
 #修改清单资料(Change List Items)
 学生 = ["Ali","阿明","小杰","iqual"]
-学生[1] = "小美" 
-print(学生) 
-#['Ali', '小美', '小杰', 'iqual']
+#学生[1] = "小美" 
+#print(学生) ['Ali', '小美', '小杰', 'iqual']
 #list清单[] #tuple元组()
 # tuple和list都可以拿来储存帮多笔的资料 许多指令也互相通用 唯一差别就在于tuple的资料不能修改和增减
+#tuple元组()
+#学生 = ("Ali","阿明","小杰","iqual")
+#学生[1] = "小美" 
+#print(学生)Traceback (most recent call last):
+  #File "c:\Users\User\Documents\GitHub\-Python-By-\list.py", line 24, in <module>
+    #学生[1] = "小美"
+    #~~^^^
+#TypeError: 'tuple' object does not support item assignment
+
+#新增清单资料 Add List Items
+#学生 = ["Ali","阿明","小杰","iqual"]
+#学生.extend(["小美","小怡"])
+#print(学生)['Ali', '阿明', '小杰', 'iqual', '小美', '小怡']
+#学生.append("小美")
+#print(学生)['Ali', '阿明', '小杰', 'iqual', '小美']
+
+#删除清单资料Remove List Items
+学生 = ["Ali","阿九","小杰","iqual"]
+学生.remove("阿九")
+#print(学生)['Ali', '小杰', 'iqual']
