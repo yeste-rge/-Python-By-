@@ -1,3 +1,4 @@
+#Python 零基礎新手入門 #02 變數與資料型態 
 Age = 18
 age = 22
 print(Age)
