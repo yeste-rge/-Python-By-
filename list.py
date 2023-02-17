@@ -50,6 +50,7 @@
 #pop的预设值是删除清单中最后一个项目 但也可以在挂号内输入清单编号
 #学生.pop(1)
 #print(学生)['Ali', '小杰', 'iqual']
+#Python 零基礎新手入門 #04 List 清單(串列)
 #if "Ali" in 学生:
 #    print("小明有在名单中")小明有在名单中
 #print(学生.index("iqual"))3
