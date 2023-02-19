@@ -14,3 +14,5 @@
 •Python 零基礎新手入門 #06 While Loop(迴圈)https://youtu.be/KnGdj1cjOlY
 
 •Python 零基礎新手入門 #07 Function (函式) https://youtu.be/74Qt9Qdl3Hs
+
+•Python 零基礎新手入門 #08 Dictionaries(字典)https://youtu.be/2uhs3TOmb64
