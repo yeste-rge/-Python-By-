@@ -19,3 +19,5 @@
 
 •Python 零基礎新手入門 #09 Module (模組)     https://youtu.be/I-xm8wVqO1o
 
+•Python 零基礎新手入門 #10 Class (類別)      https://youtu.be/AJfZvl9Hsn4
+
