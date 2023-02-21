@@ -5,3 +5,5 @@ import my_module as hi
 #from 模组名称 import 函式名称1,函式名称2...
 from my_module import 打招呼
 打招呼("阿杰")
+#模组名称或别名.函式名称(参数资料)
+#模组名称或别名.变数名称
