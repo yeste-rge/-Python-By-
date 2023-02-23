@@ -25,3 +25,5 @@
 
 (By 彭彭)
 •Python Module 模組的載入與使用 By 彭彭      https://youtu.be/Et0DjY2cGiE
+
+•Python 網路連線程式、公開資料串接 By 彭彭    https://youtu.be/sUzR3QVBKIo
