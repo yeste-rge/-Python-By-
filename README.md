@@ -24,5 +24,4 @@
 •Python 零基礎新手入門 #10 Class (類別)      https://youtu.be/AJfZvl9Hsn4
 
 (By 彭彭)
-
 •Python Module 模組的載入與使用 By 彭彭      https://youtu.be/Et0DjY2cGiE
