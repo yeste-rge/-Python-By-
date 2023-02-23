@@ -1,5 +1,5 @@
 # -Python-By-
-这里面都是跟着"Python 零基礎新手入門 Papaya 電腦教室"所学的~~
+这里面都是跟着"Python 零基礎新手入門 Papaya 電腦教室"(PapayaClass)和彭彭的影片所学的~~
 
 •Python 零基礎新手入門 #01 基本簡介與安裝 https://youtu.be/zD7dXqE-VVA
 
