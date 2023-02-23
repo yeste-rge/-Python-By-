@@ -1,9 +1,9 @@
 # -Python-By-
-这里面都是跟着"Python 零基礎新手入門 Papaya 電腦教室"所学的~~
+这里面都是跟着"Python 零基礎新手入門 Papaya 電腦教室"(PapayaClass)和彭彭的影片所学的~~
 
 •Python 零基礎新手入門 #01 基本簡介與安裝 https://youtu.be/zD7dXqE-VVA
 
-•Python 零基礎新手入門 #02 變數與資料型態    https://youtu.be/eUNHOcw-2MA
+•Python 零基礎新手入門 #02 變數與資料型態 https://youtu.be/eUNHOcw-2MA
 
 •Python 零基礎新手入門 #03 IF 條件判斷式     https://youtu.be/onrMi-D7lvY
 
@@ -22,3 +22,7 @@
 •Python 零基礎新手入門 #10 Class (類別)      https://youtu.be/AJfZvl9Hsn4
 
 •Python 零基礎新手入門 #10 Class (類別)      https://youtu.be/AJfZvl9Hsn4
+
+(By 彭彭)
+
+•Python Module 模組的載入與使用 By 彭彭      https://youtu.be/Et0DjY2cGiE
