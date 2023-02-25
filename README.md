@@ -1,5 +1,5 @@
 # -Python-By-
-这里面都是跟着"Python 零基礎新手入門 Papaya 電腦教室"(PapayaClass)和彭彭的影片所学的~~
+这里面都是跟着"Python 零基礎新手入門 Papaya 電腦教室"(PapayaClass)和彭彭(By 彭彭)的影片所学的~~
 
 (PapayaClass)
 
@@ -30,3 +30,5 @@
 •Python Module 模組的載入與使用 By 彭彭      https://youtu.be/Et0DjY2cGiE
 
 •Python 網路連線程式、公開資料串接 By 彭彭    https://youtu.be/sUzR3QVBKIo
+
+•Python 文字檔案的讀取和儲存 By 彭彭         https://youtu.be/C4OkV6DrVRs
