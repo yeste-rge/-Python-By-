@@ -1,0 +1,39 @@
+JSON = JavaScript Object NOTATION
+JSON是以轻量化的资料的表达方式 有点跟HTML有一点类似。JSON是 用来资料来源(记录/Record)
+##gen.json
+{
+    "todos": [
+    {
+        "id": 1,   #"Key" : Value #Value可以是数字或文字。But "Key"一定要是文字加双引号""框起来
+        "tittle": "Todo 1",
+        "completed": false
+    },
+    {
+        "id": 5,
+        "title": "Todo 5xx",
+        "completed": false
+    }
+  ]
+}
+
+XML v.s. JSON
+##XML #使用XML，传递的资料量较大
+<empinfo>
+  <employees>
+    <employee>
+      <name>James Kirik</name3>
+      <age>40</age>
+    </employee>
+    <employee>
+      <name>Jean-Luc Picard</name>
+      <age>45</age>
+    </employee>
+    <employee>
+      <name>Wesley Crusher</name>
+      <age>27</age>
+    </employee>
+  </employees>
+</empinfo>
+##JSON
+
+    
