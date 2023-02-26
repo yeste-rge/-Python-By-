@@ -5,4 +5,7 @@
 with open("data.txt" , mode="w" , encoding="utf-8") as file:
     file.write("测试中文\n好棒棒")
 #读取档案
+with open("data.txt" , mode="r" , encoding="utf-8") as file:
+    data=file.read()
+print(data)
 #使用 JSON 格式读取、腹泻档案
