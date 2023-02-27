@@ -1,3 +1,4 @@
+#这个视频不是Papaya和彭彭的，
 JSON = JavaScript Object NOTATION
 JSON是以轻量化的资料的表达方式 有点跟HTML有一点类似。JSON是 用来资料来源(记录/Record)
 ##gen.json
@@ -16,8 +17,8 @@ JSON是以轻量化的资料的表达方式 有点跟HTML有一点类似。JSON�
   ]
 }
 
-XML v.s. JSON
-##XML #使用XML，传递的资料量较大
+XML v.s. JSON 
+##XML #使用XML，传递的资料量较大 #使用XML,这些<标签>文学,反而比"真正的资料"还多！
 <empinfo>
   <employees>
     <employee>
@@ -34,6 +35,74 @@ XML v.s. JSON
     </employee>
   </employees>
 </empinfo>
-##JSON
-
+##JSON 
+{ "empinfo" :
+    {
+        "employess": [ #←多笔记录，用⌈阵列⌋来表示
+        {
+            "name":"James Krik",
+            "age":40,
+        },
+        {
+            "name":"Jean-Luc Picard",
+            "age":45,
+        },
+        {
+            "name":"wesley Crusher",
+            "age":27,
+        }
+                     ] #←多笔记录，用⌈阵列⌋来表示
     
+    }
+
+
+}
+
+#SQL Server(从2008开始) SELECT*FROM资料表 FOR XML AUTO    
+#SQL Server(从2016开始) SELECT*FROM资料表 FOR JSON PATH  
+
+JSON 的 一对多(一"订单"为例) #北风资料库订单(一对多)
+{
+  "order": {                                   #主档 Master
+    "Id": 10643,
+    "CustomerId":"ALFKI",
+    "EmployeeId": 6,
+    "OrderDate":"\/Date(872467200000+0000)\/",
+    "RequiredDate":"\/Date(874886400000+0000)\/",
+    "ShippedDate" : "\/Date(873158400000+0000)\/",
+    "Freight": 29.46,
+    "ShipCountry":"Germany"
+  },
+  "OrderDetails":[#←多笔记录，用⌈阵列⌋来表示       #明细 Details 
+    {
+      "OrderId": 10643,
+      "ProducrId": 28,
+      "UnitPrice": 45.6,
+      "Quantity": 15,
+      "Discount": 0.25    
+    },
+    {
+      "OrderId": 10643,
+      "ProducrId": 39,
+      "UnitPrice": 18,
+      "Quantity": 21,
+      "Discount": 0.25
+    },
+    {
+      "OrderId": 10643,
+      "ProducrId": 46,
+      "UnitPrice": 12,
+      "Quantity": 2,
+      "Discount": 0.25
+    }
+  ]
+}
+JSON小规则 #资料来源:清新下午茶
+。JSON没有注解
+。物件(Object)用大挂号{}.整列(array)用中挂号[]
+。Key必须是"文字"
+  。错误{0:"Tom",1:"John",2:"Amy",3:"Ivy"}
+  。正确{"0":"Tom","1":"John","2":"Amy","3":"Ivy"}
+。成绩单,有俩名学员.每名学员都有两个科目.
+  。[{"name":"Tom","Lastname":"Chen","report":[{"Subject":"数学","score":80},{"subject":"英文","score":90}]},
+  。{"name":"Tom","Lastname":"Lin","report":[{"Subject":"数学","score":86},{"subject":"英文","score":88}]}]
