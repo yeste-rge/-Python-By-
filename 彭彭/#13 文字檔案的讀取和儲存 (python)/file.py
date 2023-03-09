@@ -1,7 +1,7 @@
 #储存档案
-#file=open("data.txt",mode="w" , encoding="utf-8") #开启
-#file.write("测试中文\n好棒棒") #操作
-#file.close() #关闭
+file=open("data3.txt",mode="w",encoding="utf-8") #开启
+file.write("测试中文\n好棒棒") #操作
+file.close()#关闭
 #with open("data.txt" , mode="w" , encoding="utf-8") as file:
     #file.write("5\n3") #with会自动 安全 可靠 把档案释放和关闭
 #读取档案
@@ -16,11 +16,5 @@
 #print(sum)
  
 #使用 JSON 格式读取、腹泻档案
-import json
-with open("config.json", mode="r") as file:
-    data=json.load(file)
-print(data) #data是一个字典资料
-print("name:", data["name"])
-print("verison:", data["version"])
 
-     
+
