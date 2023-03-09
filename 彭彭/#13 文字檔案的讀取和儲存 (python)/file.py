@@ -1,9 +1,10 @@
 #储存档案
-file=open("data3.txt",mode="w",encoding="utf-8") #开启
-file.write("测试中文\n好棒棒") #操作
-file.close()#关闭
-#with open("data.txt" , mode="w" , encoding="utf-8") as file:
-    #file.write("5\n3") #with会自动 安全 可靠 把档案释放和关闭
+#file=open("data3.txt",mode="w",encoding="utf-8") #开启
+# file.write("测试中文\n好棒棒") #操作
+# file.close()#关闭
+with open("data4.txt",mode="w",encoding="utf-8") as file:
+    file.write("测试中文\n好棒棒")
+ #with会自动 安全 可靠 把档案释放和关闭
 #读取档案
 #with open("data.txt" , mode="r" , encoding="utf-8") as file:
 #    data=file.read()
