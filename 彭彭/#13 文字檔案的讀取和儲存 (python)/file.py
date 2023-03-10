@@ -8,6 +8,7 @@ with open("data4.txt",mode="w",encoding="utf-8") as file: #with会自动 安全 
 #读取档案
 with open("data4.txt", mode="r", encoding="utf-8") as file:
     data=file.read()
+print(data)
 #把档案中的数字资料，一行一行的读取出来，并计算总合
 #sum=0
 #with open("data.txt" , mode="r" , encoding="utf-8") as file:
