@@ -2,7 +2,7 @@
 #file=open("data3.txt",mode="w",encoding="utf-8") #开启
 # file.write("测试中文\n好棒棒") #操作
 # file.close()#关闭
-with open("data4.txt",mode="w",encoding="utf-8") as file: #with会自动 安全 可靠 把档案释放和关闭
+with open("data4.txt",mode="w",encoding="utf-8") as file: #with不需自己close 它会"自动","安全","可靠"把档案释放和关闭(ta会比计较好)
     file.write("测试中文\n好棒棒") 
  
 #读取档案
