@@ -33,4 +33,10 @@
 # 变数名称=资料
 x=3
 # print(资料)
-print(3)
+print(x)
+x=True # 取代旧的资料
+print(x)
+x="Hello"
+print(x)
+x={3,5,6}  #集合 Set
+print(x)
