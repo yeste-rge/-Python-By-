@@ -29,7 +29,15 @@
 
 # 字串运算
 # s="Hello" #也相同 s='Hello'
+
 # s="Hell\"o" # \ 的名叫做"跳脱"跟外面做区隔
+
 # s="Hello"  "World" #"Hello" + "World"
-s="Hello\nWorld" #\n 代表"换行"
+
+# s="Hello\nWorld" #\n 代表"换行"
+
+# s="""Hello
+# World""" #三个双引号"""""" 或单引号''''''
+# #注意哦 一定一定一定要 三个双引号or单引号才能这样换行 单一的不能
+s = "Hello"*3 #把"Hello"重复三遍
 print(s)
