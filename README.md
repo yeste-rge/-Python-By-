@@ -27,14 +27,14 @@
 
 (By 彭彭)
 
-•Python 變數與資料型態 By 彭彭                  #02  https://youtu.be/FMruNSjHOzQ
+•Python 變數與資料型態 By 彭彭                   #02 https://youtu.be/FMruNSjHOzQ
 
 •數字、字串的基本運算 By 彭彭                    #03 https://youtu.be/bLRa4TZ99aY
 
 •Python 有序列表的基本運算 - List、Tuple By 彭彭 #04 https://youtu.be/JLU5oc4_VtA
 
-•Python Module 模組的載入與使用 By 彭彭          #11 https://youtu.be/Et0DjY2cGiE
+•Python Module 模組的載入與使用 By 彭彭         #11 https://youtu.be/Et0DjY2cGiE
 
-•Python 文字檔案的讀取和儲存 By 彭彭             #13 https://youtu.be/C4OkV6DrVRs
+•Python 文字檔案的讀取和儲存 By 彭彭            #13 https://youtu.be/C4OkV6DrVRs
 
-•Python 網路連線程式、公開資料串接 By 彭彭       #15 https://youtu.be/sUzR3QVBKIo
+•Python 網路連線程式、公開資料串接 By 彭彭      #15 https://youtu.be/sUzR3QVBKIo
