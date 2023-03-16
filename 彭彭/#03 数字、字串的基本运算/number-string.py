@@ -29,15 +29,25 @@
 
 # 字串运算
 # s="Hello" #也相同 s='Hello'
+# print(s)
 
 # s="Hell\"o" # \ 的名叫做"跳脱"跟外面做区隔
+# print(s)
 
 # s="Hello"  "World" #"Hello" + "World"
+# print(s)
 
 # s="Hello\nWorld" #\n 代表"换行"
+#print(s)
 
 # s="""Hello
-# World""" #三个双引号"""""" 或单引号''''''
+# World"""#三个双引号"""""" 或单引号''''''
 # #注意哦 一定一定一定要 三个双引号or单引号才能这样换行 单一的不能
-s = "Hello"*3 #把"Hello"重复三遍
-print(s)
+# print(s) 
+
+# s = "Hello"*3 + "World" #把"Hello"重复三遍
+# print(s)
+
+# 字串会对内部的字元编号(索引),从 0 开始算起
+s="Hello"
+print(s[1:4]) #开头是 1 结束是 4 buts 结尾 是算 您输入的号码的前面一个 # ell
