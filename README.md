@@ -24,19 +24,3 @@
 •Python 零基礎新手入門 #10 Class (類別)      https://youtu.be/AJfZvl9Hsn4
 
 •Python 零基礎新手入門 #10 Class (類別)      https://youtu.be/AJfZvl9Hsn4
-
-(By 彭彭)
-
-•Python #02 變數與資料型態 By 彭彭                        https://youtu.be/FMruNSjHOzQ
-
-•Python #03 數字、字串的基本運算 By 彭彭                  https://youtu.be/bLRa4TZ99aY
-
-•Python #04 有序列表的基本運算 - List、Tuple By 彭彭      https://youtu.be/JLU5oc4_VtA
-
-•Python #11 Module 模組的載入與使用 By 彭彭               https://youtu.be/Et0DjY2cGiE
-
-•Python #12 Package 封包的設計與使用 By 彭彭              https://youtu.be/GGp-7VHgsKkPackage
-
-•Python #13 文字檔案的讀取和儲存 By 彭彭                  https://youtu.be/C4OkV6DrVRs
-
-•Python #15 網路連線程式、公開資料串接 By 彭彭            https://youtu.be/sUzR3QVBKIo
