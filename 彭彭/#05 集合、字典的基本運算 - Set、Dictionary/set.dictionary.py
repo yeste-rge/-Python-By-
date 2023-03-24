@@ -11,6 +11,21 @@
 # s=set("HEllo") # 把字串中的字母拆解成集合: set(字串)
 # print("A" in s)
 
-# 字典的运算: key-value 配对
-dic={"apple":"苹果","bug":"蟲蟲"}
-print(dic["apple"])
+# 字典的运算: key-value 配对 
+
+#(基本的操作)
+# dic={"apple":"苹果","bug":"蟲蟲"}
+# dic["apple"]="小苹果"
+# print(dic["apple"]) #用dic变数名称取得字典
+# print("tr" not in dic) #判断 key 是否存在 
+
+# dic={"apple":"苹果","bug":"蟲蟲"}
+# print(dic)
+# del dic["apple"] #删除字典中的键值对 (key-value pair)
+# print(dic)
+
+#(偏复杂的操作)
+dic={x:x*2 for x in [3,4,5]} # 从列表的资料产生字典
+#中挂号[]是一个列表
+#key 是 x , value 是 x*2
+print(dic)
