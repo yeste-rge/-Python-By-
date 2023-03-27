@@ -33,7 +33,9 @@
 
 •Python #04 有序列表的基本運算 - List、Tuple By 彭彭       https://youtu.be/JLU5oc4_VtA
 
-•Python 集合、字典的基本運算 - Set、Dictionary By 彭彭     https://youtu.be/L3-KuGYhw78
+•Python #05 集合、字典的基本運算 - Set、Dictionary By 彭彭 https://youtu.be/L3-KuGYhw78
+
+•Python #06 流程控制：if 判斷式 By 彭彭                    https://youtu.be/A93BsHB-lWo
 
 •Python #11 Module 模組的載入與使用 By 彭彭                https://youtu.be/Et0DjY2cGiE
 
