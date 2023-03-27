@@ -13,16 +13,16 @@ n1=int(input("请输入数字1:"))
 n2=int(input("请输入数字2:"))
 op=input("请输入运算: + , - , * , / ")
 if op=="+":
-    print(f"{n1}加{n2}等于{n1+n2}")
-#   print(n1+n2)    
+    print(f"{n1}加{n2}等于{n1+n2}") #后来改
+#   print(n1+n2)    #原本
 elif op=="-":
-    print(f"{n1}减{n2}等于{n1-n2}")
-#   print(n1-n2)    
+    print(f"{n1}减{n2}等于{n1-n2}") #后来改
+#   print(n1-n2)    #原本
 elif op=="*":
-    print(f"{n1}乘{n2}等于{n1*n2}")
-#    print(n1*n2)
+    print(f"{n1}乘{n2}等于{n1*n2}") #后来改
+#    print(n1*n2) #原本
 elif op=="/":
-    print(f"{n1}除{n2}等于{n1/n2}")
-#    print(n1*n2)
+   print(f"{n1}除{n2}等于{n1/n2}") #后来改
+#    print(n1/n2) #原本
 else:
     print("不支援的运算 cao ni ma")
