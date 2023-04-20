@@ -36,12 +36,12 @@ for c in "Hello":
 使用 range() ←非常的方便
 #它可以帮我们制造出一个连续数字的列表
 
-for 变数名称 in range(3): 
+1）for 变数名称 in range(3): 
 /
-for 变数名称 in range(3,6):
+2）for 变数名称 in range(3,6): #3开始6结束
 
 #相当于
 
-for 变数名称 in [0,1,2]:
+1）for 变数名称 in [0,1,2]:
 /
-for 变数名称 in [3,4,5]:
+2）for 变数名称 in [3,4,5]: #包含3不包含6
