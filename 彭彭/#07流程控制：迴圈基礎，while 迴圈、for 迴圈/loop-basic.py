@@ -8,5 +8,14 @@
 # print(sum)#把n的资料加1
 
 # for 迴圈
-for x in [3,5,1]:
-    print(x)
+# for x in [3,5,1]:
+# for x in "Hello":
+# for x in range(5,10):
+# for x in range(11):
+#     print(x)
+
+# 1+2+3+...+10
+sum=0
+for x in range(1,11):
+    sum=sum+x
+print(sum)
