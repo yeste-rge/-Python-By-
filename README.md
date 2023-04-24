@@ -39,6 +39,8 @@
 
 •Python #07 Python 流程控制：迴圈基礎，while 迴圈、for 迴圈 By 彭彭 https://youtu.be/szaAeLt_49U
 
+•Python 流程控制：迴圈進階控制，break、continue、else 命令 By 彭彭  https://youtu.be/yBXlwOmLqZ4
+
 •Python #11 Module 模組的載入與使用 By 彭彭                        https://youtu.be/Et0DjY2cGiE
 
 •Python #12 Package 封包的設計與使用 By 彭彭                       https://youtu.be/GGp-7VHgsKk
