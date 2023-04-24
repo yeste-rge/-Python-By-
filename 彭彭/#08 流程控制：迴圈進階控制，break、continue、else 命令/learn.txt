@@ -1,0 +1,45 @@
+流程控制:迴圈进阶控制
+
+迴圈搭配的命令 
+exm.
+break 和 continue 
+##这两个命令一定要跟迴圈做搭配 ##所以一定要是要写在迴圈的里面 写在迴圈的外面它会是个错误
+
+#break
+
+强制结束迴圈
+exm.
+    while 布林值:
+        break
+    for 变数名称 in 列表或字串:
+        break
+
+程式范例
+exm.
+
+n=1
+while n<5:
+    if n==3:
+        break
+    n+=1
+print(n) # 印出 3
+
+#continue
+
+强制继续下一圈
+exm.
+
+    while 布林值:
+        continue
+    for 变数名称 in 列表或字串:
+        continue
+
+程式范例
+exm.
+
+n=0
+for x in [0,1,2,3]:
+    if x%2==0:
+        continue
+    n+=1
+print(n) # 印出 2
