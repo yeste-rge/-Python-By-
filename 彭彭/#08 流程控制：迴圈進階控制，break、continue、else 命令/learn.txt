@@ -62,3 +62,17 @@ for 变数名称 in 列表或字串:
     元逐一取出,逐一处理
 else:
     迴圈结束前,执行此区块的命令
+
+程式范例
+
+n=1
+while n<5:
+    print("变数 n 的资料是:",n)
+    n+=1
+else:
+    print(n) #结束迴圈前，印出5
+
+for c in "Hello"
+    print("逐一取得字串的字元"，c)
+else:
+    print(c) #结束迴圈前,印出 o
