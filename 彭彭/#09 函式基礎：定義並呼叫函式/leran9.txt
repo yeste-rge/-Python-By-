@@ -18,6 +18,11 @@ def 函式名称(变数名称):
 
 #程式范例
 exm.
-##定义一个印出Hello的函式
-def sayHello():
+##定义一个印出Hello的函式 
+def sayHello():  ## def(define)定义
+ ##sayHello是函式 函式只能用英文
     print("Hello")
+
+##定义可以印出任何信息的函式
+def say msg():
+    print(msg)
