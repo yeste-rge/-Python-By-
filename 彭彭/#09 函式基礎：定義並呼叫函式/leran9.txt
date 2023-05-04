@@ -18,8 +18,8 @@ def 函式名称(变数名称):
 
 #程式范例
 exm.
-##定义一个印出Hello的函式 
-def sayHello():  ## def(define)定义
+##定义一个印出Hello的函式 ## def(define)定义
+def sayHello():  
  ##sayHello是函式名称 函式名称只能用英文
     print("Hello")
 
@@ -28,3 +28,7 @@ def say (msg): ##函式是 say ,参数名称是 msg
     print(msg)
 
 ##定义一个可以做加法的函式 
+def add(n1,n2): ##函式是 add ,参数名称是 n1 和 n2(如果在小挂号"()"里有两个参数中间用逗号","隔开) 
+##空格单纯是习惯 不写也可以
+    result=n1+n2
+    print(result)
