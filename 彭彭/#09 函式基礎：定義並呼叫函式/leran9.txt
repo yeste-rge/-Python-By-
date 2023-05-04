@@ -32,3 +32,86 @@ def add(n1,n2): ##函式是 add ,参数名称是 n1 和 n2(如果在小挂号"()
 ##空格单纯是习惯 不写也可以
     result=n1+n2
     print(result)
+
+#呼叫函式
+
+##基本语法
+函式名称(参数资料)
+
+##程式范例
+exm.
+1.
+#定义一个印出Hello的函式
+def sayHello():
+    print("Hello")
+
+#呼叫上方定义的函式
+sayHello()
+
+2.
+#定义可以印出任何信息的函式
+def say(msg):
+    print(msg)
+
+#呼叫上方定义的函式
+say("Hello Function") 
+say("Hello Python")
+##Hello Function和Hello Python 是字串
+##这些参数的资料就会丢去 msg 里面 印出 msg 
+
+3.
+#定义一个可以做加法的函式
+def add(n1,n2):
+    result=n1+n2
+    print(result)
+
+#呼叫上方定义的函式
+add(3,4)
+add(7,8)
+
+#回传值
+
+##基本语法
+exm.
+
+def 函式名称(参数名称):
+    函式内部的程式码
+    return #结束函式(强制),回传 None 
+    ##(没有要呼叫函式)不写 和 写 return 是一样(没有差别), 程式跑完没有别的东西可以做 系统会自动 return 自动结束
+
+def 函式名称(参数名称):
+    函式内部的程式码
+    return 资料 # 结束函式(强制),回传⌈资料⌋ 
+    #什么叫资料: ##除了 资料 还有列表 字典
+     数字 字串 布林值 未来还有物件
+
+##程式范例
+
+1.
+#函式回传 None
+def say(msg):
+    print(msg)
+    return
+
+#呼叫函式,取得回传值
+value=say("Hello Function")
+print(value)# 印出 None
+
+2.
+#函式回传字串 Hello
+def add(n1,n2):
+    result=n1+n2
+    return "Hello"
+#呼叫函式,取得回传值
+value=add(3,4)
+print(value)# 印出 Hello
+
+3.
+#函式回传 n1+n2 的结果
+def add(n1,n2):
+    result=n1+n2
+    return result ##return 加法的结果
+
+#呼叫函式,取得回传值
+value=add(3,4)
+print(value) # 印出 7
