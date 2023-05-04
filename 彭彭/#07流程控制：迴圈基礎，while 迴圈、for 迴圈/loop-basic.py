@@ -14,8 +14,8 @@
 # for x in range(11):
 #     print(x)
 
-# 1+2+3+...+10
+# 1+2+3..+10
 sum=0
-for x in range(1,11):
+for x in range(1,11): # 1+2+3..+10
     sum=sum+x
 print(sum)
