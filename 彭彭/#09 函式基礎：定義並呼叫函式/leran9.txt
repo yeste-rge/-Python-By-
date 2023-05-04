@@ -20,9 +20,11 @@ def 函式名称(变数名称):
 exm.
 ##定义一个印出Hello的函式 
 def sayHello():  ## def(define)定义
- ##sayHello是函式 函式只能用英文
+ ##sayHello是函式名称 函式名称只能用英文
     print("Hello")
 
 ##定义可以印出任何信息的函式
-def say msg():
+def say (msg): ##函式是 say ,参数名称是 msg 
     print(msg)
+
+##定义一个可以做加法的函式 
