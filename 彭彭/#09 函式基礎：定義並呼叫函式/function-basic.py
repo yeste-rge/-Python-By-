@@ -19,8 +19,8 @@
 # 程式的包装
 def calculate(max):
     sum=0
-    for x in range(1,max+1): # 1+2+3..+10
+    for x in range(1,max+1): 
         sum=sum+x
     print(sum)
-calculate(10)
+calculate(10) # 1+2+3..+10
 calculate(20)
