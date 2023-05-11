@@ -5,3 +5,20 @@
 #基本语法
 def 函式名称(参数名称=预设资料):
     函式内部的程式码
+
+## 参数 msg 预设资料为 "Hello"
+def say(msg="Hello"):
+    print(msg)
+
+## 印出 Hello Function
+say("Hello Function")
+say() # 印出预设资料 Hello
+
+2.名称对应
+
+#基本语法
+def 函式名称(名称1,名称2):
+    函式内部的程式码
+
+## 呼叫函式,对参数名称对应资料
+函数名称(名称2=3,名称1=5)

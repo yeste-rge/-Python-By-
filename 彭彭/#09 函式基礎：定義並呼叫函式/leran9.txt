@@ -22,7 +22,7 @@ exm.
 def sayHello():  
  ##sayHello是函式名称 函式名称只能用英文
     print("Hello")
-
+    
 ##定义可以印出任何信息的函式
 def say (msg): ##函式是 say ,参数名称是 msg 
     print(msg)
