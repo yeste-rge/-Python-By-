@@ -43,6 +43,8 @@
 
 •Python #09 函式基礎：定義並呼叫函式 By 彭彭                           https://youtu.be/7qKFvUVpQXg
 
+•Python 函式參數詳解：參數預設值、名稱對應、任意長度參數 By 彭彭         https://youtu.be/OOJmhezLd4o
+
 •Python #11 Module 模組的載入與使用 By 彭彭                           https://youtu.be/Et0DjY2cGiE
 
 •Python #12 Package 封包的設計與使用 By 彭彭                          https://youtu.be/GGp-7VHgsKk
