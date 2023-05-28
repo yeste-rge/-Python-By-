@@ -51,6 +51,8 @@
 
 •Python #13 文字檔案的讀取和儲存 By 彭彭                              https://youtu.be/C4OkV6DrVRs
 
+•Python #14
+
 •Python #15 網路連線程式、公開資料串接 By 彭彭                        https://youtu.be/sUzR3QVBKIo
 
 •Python #16 集合、字典的基本運算 - Set、Dictionary By 彭彭            https://youtu.be/L3-KuGYhw78
