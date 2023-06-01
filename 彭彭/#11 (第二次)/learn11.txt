@@ -39,7 +39,7 @@ print(sys.path) # 印出搜寻模组的路径
 
 second.
 ## 载入 sys 模组
-import sys as s 
+import sys as s # s 是别名
 
 ## 使用 sys 模组
 print(s.platform) # 印出作业系统
