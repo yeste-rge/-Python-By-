@@ -34,7 +34,7 @@ import sys
 
 ## 使用 sys 模组
 print(sys.platform) # 印出作业系统
-print(sys.maxsize) # 印出整数形态的最大值
+print(sys.maxsize) # 印出整数形态的最大值 ("不是长整数")
 print(sys.path) # 印出搜寻模组的路径
 
 second.
