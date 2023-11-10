@@ -26,11 +26,28 @@
 # 综合范例: 找出整数平方根
 # 输入 9. 得到 3
 # 输入 11，得到[没有]整数的平方根
+
+# n=input("输入一个正整数: ")
+# n=int(n) #转换输入成数字
+# for i in range(n): # i 从 0 ～ n-1
+#     if i*i==n:
+#         print("整数平方根", i)
+#         break # 用 break 强制结束迴圈时, 不会执行 else 区块
+# else:
+#     print("没有整数平方根") 
+
+#myself
 n=input("输入一个正整数: ")
 n=int(n) #转换输入成数字
 for i in range(n): # i 从 0 ～ n-1
     if i*i==n:
         print("整数平方根", i)
         break # 用 break 强制结束迴圈时, 不会执行 else 区块
+    elif i*i*i==n:
+        print("3次整数平方根", i)
+        break
+    elif i*i*i*i==n:
+        print("4次整数平方根", i)
+        break
 else:
     print("没有整数平方根") 

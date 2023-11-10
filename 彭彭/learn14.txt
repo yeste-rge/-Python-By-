@@ -1,0 +1,54 @@
+亂數與統計模組 
+
+#内建模组
+学习random和statistics模组
+
+1.亂數模组
+import random
+
+#随机选取
+import random
+#从列表中随机选取1个资料
+random.choice([0,1,5,8]) 随机选一个号码([0,1,5,8])
+#从列表中随机选取2个资料
+random.sampe([0,1,5,8],2) 随机选两个号码([0,1,5,8])、
+
+#随机调换顺序
+import random
+#将列表的资料[就地]随机调换顺序
+data=[0,1,5,8]
+random.shuffle(data)
+print(data)
+
+
+#随机乱数
+import random
+#取得0.0～1.0之间的随机乱数
+random.random()
+random.uniform(0.0,1.0)
+
+#常态分配乱数
+import random
+#取得平均数100,标准差10的
+#常态分配乱数
+random.normalvariate(100,10)
+
+2.统计模组
+#载入模组
+import statistics
+
+#计算平均数
+import statistics
+
+#从计算列表中数字的平均数
+statistics.mean([1,4,6,9])
+
+#计算中位数
+import statistics
+#计算列表中数字的中位数
+statistics.median([1,4,6,9])
+
+#计算标准差
+import statistics
+#计算列表中数字的标准差
+statistics.stdev([1,4,6,9])
