@@ -55,4 +55,4 @@
 
 •Python #15 網路連線程式、公開資料串接 By 彭彭                       https://youtu.be/sUzR3QVBKIo
 
-•Python #16 集合、字典的基本運算 - Set、Dictionary By 彭彭           https://youtu.be/L3-KuGYhw78
+•Python #16 類別的定義與使用 - Class Attributes By 彭彭             https://youtu.be/uPKgQ3FoVtY?si=0gNC89qBMyW9IDlP
