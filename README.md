@@ -27,32 +27,50 @@
 
 (By 彭彭)
  
-•Python #02 變數與資料型態 By 彭彭                                   https://youtu.be/FMruNSjHOzQ
+•Python #02 變數與資料型態 By 彭彭                                       
+https://youtu.be/FMruNSjHOzQ
  
-•Python #03 數字、字串的基本運算 By 彭彭                              https://youtu.be/bLRa4TZ99aY
+•Python #03 數字、字串的基本運算 By 彭彭                                  
+https://youtu.be/bLRa4TZ99aY
 
-•Python #04 有序列表的基本運算 - List、Tuple By 彭彭                  https://youtu.be/JLU5oc4_VtA
+•Python #04 有序列表的基本運算 - List、Tuple By 彭彭                      
+https://youtu.be/JLU5oc4_VtA
 
-•Python #05 集合、字典的基本運算 - Set、Dictionary By 彭彭            https://youtu.be/L3-KuGYhw78
+•Python #05 集合、字典的基本運算 - Set、Dictionary By 彭彭                
+https://youtu.be/L3-KuGYhw78
   
-•Python #06 流程控制：if 判斷式 By 彭彭                               https://youtu.be/A93BsHB-lWo
+•Python #06 流程控制：if 判斷式 By 彭彭                                  
+https://youtu.be/A93BsHB-lWo
 
-•Python #07 Python 流程控制：迴圈基礎，while 迴圈、for 迴圈 By 彭彭    https://youtu.be/szaAeLt_49U
+•Python #07 Python 流程控制：迴圈基礎，while 迴圈、for 迴圈 By 彭彭       
+https://youtu.be/szaAeLt_49U
 
-•Python #08 流程控制：迴圈進階控制，break、continue、else 命令 By 彭彭 https://youtu.be/yBXlwOmLqZ4
+•Python #08 流程控制：迴圈進階控制，break、continue、else 命令 By 彭彭    
+https://youtu.be/yBXlwOmLqZ4
 
-•Python #09 函式基礎：定義並呼叫函式 By 彭彭                          https://youtu.be/7qKFvUVpQXg
+•Python #09 函式基礎：定義並呼叫函式 By 彭彭                             
+https://youtu.be/7qKFvUVpQXg
 
-•Python #10 函式參數詳解：參數預設值、名稱對應、任意長度參數 By 彭彭    https://youtu.be/OOJmhezLd4o
+•Python #10 函式參數詳解：參數預設值、名稱對應、任意長度參數 By 彭彭       
+https://youtu.be/OOJmhezLd4o
 
-•Python #11 Module 模組的載入與使用 By 彭彭                          https://youtu.be/Et0DjY2cGiE
+•Python #11 Module 模組的載入與使用 By 彭彭                             
+https://youtu.be/Et0DjY2cGiE
 
-•Python #12 Package 封包的設計與使用 By 彭彭                         https://youtu.be/GGp-7VHgsKk
+•Python #12 Package 封包的設計與使用 By 彭彭                            
+https://youtu.be/GGp-7VHgsKk
 
-•Python #13 文字檔案的讀取和儲存 By 彭彭                             https://youtu.be/C4OkV6DrVRs
+•Python #13 文字檔案的讀取和儲存 By 彭彭                                 
+https://youtu.be/C4OkV6DrVRs
 
-•Python #14 亂數與統計模組 By 彭彭                                  https://youtu.be/-xwCu6PN1jU?si=RR4mqbu2GzkwS9Ed
+•Python #14 亂數與統計模組 By 彭彭                                      
+https://youtu.be/-xwCu6PN1jU?si=RR4mqbu2GzkwS9Ed
 
-•Python #15 網路連線程式、公開資料串接 By 彭彭                       https://youtu.be/sUzR3QVBKIo
+•Python #15 網路連線程式、公開資料串接 By 彭彭                           
+https://youtu.be/sUzR3QVBKIo
 
-•Python #16 類別的定義與使用 - Class Attributes By 彭彭             https://youtu.be/uPKgQ3FoVtY?si=0gNC89qBMyW9IDlP
+•Python #16 類別的定義與使用 - Class Attributes 類別的定義與使用 By 彭彭 
+https://youtu.be/uPKgQ3FoVtY?si=0gNC89qBMyW9IDlP
+
+•Python #17 實體物件的建立與使用 - 上篇 - 實體屬性 Instance Attributes By 彭彭
+https://youtu.be/Lr5N2r1rmtM?si=ugfuAqY9kdq0jeI-
