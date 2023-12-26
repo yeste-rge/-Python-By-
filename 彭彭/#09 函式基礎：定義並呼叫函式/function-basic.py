@@ -23,4 +23,4 @@ def calculate(max):
         sum=sum+x
     print(sum)
 calculate(10) # 1+2+3..+10
-calculate(20)
+calculate(20) #1+2+3..+20
