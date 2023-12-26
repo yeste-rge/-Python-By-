@@ -37,7 +37,7 @@
 #     print("没有整数平方根") 
 
 #myself
-n=input("输入一个正整数: ")
+n=input("输入一个正整数(整数平方根/3次整数平方根/4次整数平方根): ")
 n=int(n) #转换输入成数字
 for i in range(n): # i 从 0 ～ n-1
     if i*i==n:
