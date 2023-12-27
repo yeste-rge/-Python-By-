@@ -75,8 +75,13 @@ https://youtu.be/uPKgQ3FoVtY?si=0gNC89qBMyW9IDlP
 •Python #17 實體物件的建立與使用 - 上篇 - 實體屬性 Instance Attributes By 彭彭
 https://youtu.be/Lr5N2r1rmtM?si=ugfuAqY9kdq0jeI-
 
-(By Python All-In-One for dummies (John C. Shovic) 2019)
-hello_In1.py
+(By Python All-In-One for dummies (John C. Shovic) 2019) 
+hello_In1.py (will not continue)
 
 (By Python All-In-one for dummies (John C. Shovic) 2021)
 In2.py
+In3.py
+
+(Functional Python Programming (Third Edition)foreword by Ricardo Bánffy (Steven F. Lott)(<packt>))
+-For more experienced programmers who want to create succinct
+-expressive Python programs by borrowing techniques and design patterns from functionaal programming languages.
