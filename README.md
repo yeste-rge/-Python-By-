@@ -75,6 +75,7 @@ https://youtu.be/uPKgQ3FoVtY?si=0gNC89qBMyW9IDlP
 •Python #17 實體物件的建立與使用 - 上篇 - 實體屬性 Instance Attributes By 彭彭
 https://youtu.be/Lr5N2r1rmtM?si=ugfuAqY9kdq0jeI-
 
+(NLB)
 (By Python All-In-One for dummies (John C. Shovic) 2019) 
 hello_In1.py (will not continue)
 
@@ -85,3 +86,11 @@ In3.py
 (Functional Python Programming (Third Edition)foreword by Ricardo Bánffy (Steven F. Lott)(<packt>))
 -For more experienced programmers who want to create succinct
 -expressive Python programs by borrowing techniques and design patterns from functionaal programming languages.
+a.Things you will learn
+-Use Python's libraries to avoid the complexities of state-changing classes
+-Leverage bulit-in higher-order functions to avoid rewriting common algorithms
+-Write generator functions to create lazy processing
+-Design and implement decorators for functional composition
+-Make use of Python type annotations to describe parameters and results of functios
+-Apply functional programming to concurrency and web services
+-Explore the PyMonad libarary for ststeful simulations
