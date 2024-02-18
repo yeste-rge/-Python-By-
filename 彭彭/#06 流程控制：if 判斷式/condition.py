@@ -12,6 +12,7 @@
 n1=int(input("请输入数字1:"))
 n2=int(input("请输入数字2:"))
 op=input("请输入运算: + , - , * , / =")
+# op is variable 
 if op=="+":
     print(f"{n1}加{n2}等于{n1+n2}") #后来改
 #   print(n1+n2)    #原本
