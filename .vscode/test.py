@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 # Given data
 x_values = [40, 50, 60, 70]
-y_values = [0.5, 0.66, 0.83, 1.02]
+y_values = [0.18, 0.24, 0.30, 0.35]
 
 # Create the plot
 plt.plot(x_values, y_values, marker='o')
