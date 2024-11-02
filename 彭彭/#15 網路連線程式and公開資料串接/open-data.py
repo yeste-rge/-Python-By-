@@ -15,13 +15,33 @@
     #data=response.read().decode("utf-8") #取得网站的原始码 (HTML、CSS、JS)
 #print(data)
 #串接、截取公开资料
-import urllib.request as request
-import json
-src="https://data.taipei/api/v1/dataset/04a9e3ca-9d96-4f2a-aaef-ead33af206e5?scope=resourceAquire"
-with request.urlopen(src) as response:
-    data=json.load(response) #利用 json 模组处理 json 资料格式
-    # 将公司名称列表出来
-    clist=data["result"]["results"]
-    with open("data.txt","w",encoding="utf-8") as file:
-        for company in clist:
-          file.write(company["免費接駁車路線"]+"\n")
+
+import requests
+
+def fetch_webpage_safely():
+    url = "https://www.ntu.edu.tw/"  # Example URL from your code
+    
+    try:
+        # Use requests instead of urllib.request
+        response = requests.get(url, timeout=10)
+        response.raise_for_status()
+        
+        # Get the webpage content with proper encoding
+        data = response.text
+        return data
+        
+    except requests.exceptions.RequestException as e:
+        print(f"Error fetching webpage: {e}")
+        return None
+
+def main():
+    webpage_content = fetch_webpage_safely()
+    if webpage_content:
+        print("Successfully retrieved webpage content")
+        # Process the webpage_content as needed
+    else:
+        print("Failed to retrieve webpage content")
+
+if __name__ == "__main__":
+    main()
+    
